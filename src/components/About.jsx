@@ -67,7 +67,7 @@ export default function About() {
                 {/* Accent border ring */}
                 <div className="absolute -inset-0.5 rounded-2xl bg-gradient-to-br from-accent to-accent-2 opacity-50" />
                 <img
-                  src="https://ibb.co/rGWrDwLn"
+                  src="[url=https://ibb.co/rGWrDwLn][img]https://i.ibb.co/JRhJDsbX/profile.jpg[/img][/url]"
                   alt="Mithlesh Paswan"
                   className="relative w-44 h-44 rounded-2xl object-cover object-top"
                 />
